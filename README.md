@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Based on python
+Please, read items in folder "HOWTOPLAY", to understand game. Based on python
